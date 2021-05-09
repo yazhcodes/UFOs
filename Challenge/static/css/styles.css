@@ -4,6 +4,7 @@ body {
 
 .navbar{
     position: sticky-top;
+    min-width: 100% !important;
 }
 
 .navbar-brand {
@@ -16,6 +17,7 @@ body {
     background-image: url("../img/aliens.jpeg");
     background-position: 50% 65%;
     height: 330px !important;
+    border-radius: 0px;
 }
 
 .jumbotron h1 {
