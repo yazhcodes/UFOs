@@ -1,6 +1,6 @@
 
 # PROJECT OVERVIEW
-This project is about building a HTML webpage to display an article about UFO Sightings, supported by data from a Javascript file and beautified by CSS & Bootstrap. We have also built a filter option to easily sift through the hundreds of UFO Sighting Data displayed in table format.
+This project is about building a _**HTML webpage**_ to display an article about UFO Sightings, supported by data from a **_Javascript_** file and beautified by **_CSS & Bootstrap_**. We have also enabled **_filter options_** to easily sift through the hundreds of UFO Sighting Data displayed in table format.
 
 # RESULTS
 
