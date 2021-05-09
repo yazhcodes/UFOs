@@ -1,0 +1,92 @@
+body {
+    background-color: #5097A4;
+}
+
+.navbar{
+    position: sticky-top;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: x-large;
+    letter-spacing: 0.15rem;
+}
+
+.jumbotron {
+    background-image: url("../img/aliens.jpeg");
+    background-position: 50% 65%;
+    height: 330px !important;
+}
+
+.jumbotron h1 {
+    padding-top: 190px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3rem;
+    letter-spacing: 5px;
+    color: #5097A4;
+}
+
+.article-title {
+    font-family: 'Syne Mono', monospace;
+    justify-content: center;
+}
+
+.article-title span {
+    font-size: 70%;
+}
+
+.article-paragraph {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#ufo-sightings {
+    border-top: 1px solid #292b2c;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #5097A4, #333, #5097A4);
+}
+
+form {
+    font-family: 'Syne Mono', monospace;
+}
+
+#filter-header {
+    padding-left: 10px;
+    letter-spacing:3px;
+    font-size: 1.5rem;
+}
+
+.form-control {
+    background-color:#76bfcc;
+    border-color: #5097A4;
+    width: 100%;
+}
+
+.list-group-item {
+    background-color: #5097A4; 
+}
+
+#filter-btn {
+    color: #5097A4;
+}
+
+.table th {
+    font-family: 'Syne Mono', monospace;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    border-top: none;
+    border-bottom: 1px solid #292b2c !important;
+}
+
+.table td {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+    border: none !important;
+}
+
+
+
