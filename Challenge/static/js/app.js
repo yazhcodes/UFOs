@@ -26,10 +26,9 @@ function updateFilters() {
 }
 
 function filterTable() {
-  let filteredData = [];
+  let filteredData = tableData;
   Object.entries(filters).forEach(criteria => {
-    results = tableData.filter(row => row[criteria[0]] === criteria[1]);
-    filteredData = filteredData.concat(results);
+    filteredData = filteredData.filter(row => row[criteria[0]] === criteria[1]);
   });
   filteredData = new Set(filteredData);
   buildTable(filteredData);
