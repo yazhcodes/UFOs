@@ -16,9 +16,10 @@ As we scroll down we are presented with hundreds of UFO Sighting Data recorded a
 
 # SUMMARY
 
-Although it was a timetaking painful process building this application, it defenitely has drabacks and could use some upgrades to provide best user experience.
+Although it was a timetaking painful process building this application, it defenitely has drawbacks and could use some upgrades to provide best user experience.
 
 * **Drawback** - The filters are _text inputs_ so they cannot take more than one value. Also the one value entered by the user has to have a perfect match with the database, else the filter does not return any results.
 * **Recommendations**
     * The filer options could be upgraded to _dropdown or checkbox_ input type, which will offer the user some options to choose the filters from.
+    * A _Sort by_ option based on columns could be extremely handy when sifting through data and trying to find correlations.
     * A _Data Visualization element_ like a _bar graph_ with the **City/State for X-axis** and the **Number of Sightings for Y-axis** would be a cherry on top for this webpage.
