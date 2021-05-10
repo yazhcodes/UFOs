@@ -10,7 +10,7 @@ The website features an _eerie landing page_ to set the stage for an excited use
 <img src='https://github.com/yazhcodes/UFOs/blob/main/Challenge/Resources/landing%20page.png'/>
 
 ## Table and Filters
-As we scroll down we are presented with hundreds of UFO Sighting Data recorded across the US in a table format. It is impractical for a user to scroll through all of the data and make sense out of it. So we have provided some filter options to narrow down the search results. The filters work in an _Inclusive OR_ fashion. Meaning, if the date field is set to 1/3/2010 and the state field is set to 'ga', the search results will include all the UFO Sightings on 1/3/2010 followed by all the UFO Sightings in the state of Georgia. 
+As we scroll down we are presented with hundreds of UFO Sighting Data recorded across the US in a table format. It is impractical for a user to scroll through all of the data and make sense out of it. So we have provided some filter options to narrow down the search results. The filters work in an _Inclusive AND_ fashion. Meaning, if the date field is set to 1/3/2010 and the state field is set to 'ga', the search results will include all the UFO Sightings on 1/3/2010 followed by all the UFO Sightings in the state of Georgia. 
 
 <img src='https://github.com/yazhcodes/UFOs/blob/main/Challenge/Resources/filter%20results.png'/>
 
