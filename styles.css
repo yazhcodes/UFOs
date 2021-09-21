@@ -14,7 +14,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("../img/aliens.jpeg");
+    background-image: url("aliens.jpeg");
     background-position: 50% 62%;
     height: 320px !important;
     border-radius: 0px;
